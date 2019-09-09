@@ -55,7 +55,7 @@ Session::checkLogin();
 			<a href="forgetpass.php">Forgot Password !</a>
 		</div><!-- button -->		
 		<div class="button">
-			<a href="#">Training with live project</a>
+			<a href="#">Mahmudul Hassan</a>
 		</div><!-- button -->
 	</section><!-- content -->
 </div><!-- container -->
